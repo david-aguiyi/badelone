@@ -31,7 +31,7 @@ body {
     font-family: 'Montserrat', sans-serif;
     font-size: 16px;
     overflow-x: hidden;
-    background-color: #0858FE;
+    background-color: red;
     scroll-behavior: smooth;
 }
 
@@ -99,7 +99,7 @@ h2 {
 }
 
 .button-base {
-    border: 1.4px solid #000000;
+    border: 3px solid #a90202;
     height: 48px;
     padding: 0 15px;
     color: #ffffff;
@@ -267,6 +267,9 @@ h2 {
     }
 }
 
+p{
+        font-family: 'milky', sans-serif;
+}
 #dexscreener-embed {
     position: relative;
     width: 100%;
